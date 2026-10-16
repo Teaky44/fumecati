@@ -1,0 +1,20 @@
+# Sık yazılan / eski olası adresler -> doğru sayfa (301)
+/hizmet              /hizmetler                 301
+/fiyat               /cati-tamiri-fiyatlari     301
+/fiyatlar            /cati-tamiri-fiyatlari     301
+/cati-fiyatlari      /cati-tamiri-fiyatlari     301
+/su-izolasyonu       /su-yalitimi               301
+/isi-izolasyonu      /isi-yalitimi              301
+/cati-izolasyon      /cati-izolasyonu           301
+/cati-tamir          /cati-tamiri               301
+/yeni-cati           /yeni-cati-yapimi          301
+/beylikduzu          /beylikduzu-cati-tamiri    301
+/esenyurt            /esenyurt-cati-tamiri      301
+/avcilar             /avcilar-cati-tamiri       301
+/buyukcekmece        /buyukcekmece-cati-tamiri  301
+/kucukcekmece        /kucukcekmece-cati-tamiri  301
+/silivri             /silivri-cati-tamiri       301
+/arnavutkoy          /arnavutkoy-cati-tamiri    301
+/sikca-sorulan-sorular /sss                     301
+/iletişim            /iletisim                  301
+/contact             /iletisim                  301
