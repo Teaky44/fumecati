@@ -18,3 +18,12 @@
 /sikca-sorulan-sorular /sss                     301
 /iletişim            /iletisim                  301
 /contact             /iletisim                  301
+/beylikduzu-cati-tamir       /beylikduzu-cati-tamiri      301
+/beylikduzu-izolasyon        /beylikduzu-cati-izolasyonu  301
+/beylikduzu-cati-izolasyon   /beylikduzu-cati-izolasyonu  301
+/cati-akinti                 /cati-akintisi-tamiri        301
+/cati-akintisi               /cati-akintisi-tamiri        301
+/cati-akitiyor               /cati-akintisi-tamiri        301
+/cati-aktarma                /kiremit-aktarma             301
+/kiremit-aktarmasi           /kiremit-aktarma             301
+/kiremit-degisimi            /kiremit-aktarma             301
